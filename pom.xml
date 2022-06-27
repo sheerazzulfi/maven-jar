@@ -160,7 +160,7 @@
     </pluginManagement>
   </build>
   
-  <profiles>
+<!--   <profiles>
         <profile>
             <id>ci-cd</id>
             <build>
@@ -188,5 +188,5 @@
                 </plugins>
             </build>
         </profile>
-    </profiles>
+    </profiles> -->
 </project>
