@@ -149,6 +149,10 @@
                     <goals>
                         <goal>sign</goal>
                     </goals>
+                    <configuration>
+                      <keyname>sheeraz</keyname>
+                      <passphraseServerId>admin</passphraseServerId>
+                     </configuration>
                 </execution>
             </executions>
         </plugin>
