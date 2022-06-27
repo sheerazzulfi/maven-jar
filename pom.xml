@@ -46,9 +46,9 @@
     </developers>
 
     <scm>
-      <connection>scm:git:git://github.com/sheerazzulfi/maven-jar.git</connection>
-      <developerConnection>scm:git:ssh://github.com/sheerazzulfi/maven-jar.git</developerConnection>
-      <url>https://github.com/sheerazzulfi/maven-jar/tree/main</url>
+      <connection>scm:git:git://github.com/shashankramesh01/mvn.git</connection>
+      <developerConnection>scm:git:ssh://github.com/shashankramesh01/mvn.git</developerConnection>
+      <url>https://github.com/shashankramesh01/mvn/tree/main</url>
     </scm>
   <dependencies>
     <dependency>
